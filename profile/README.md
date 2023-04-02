@@ -1,4 +1,4 @@
-### BloxBean's Cardano Projects
+### BloxBean Cardano Projects
 
 - **[Cardano Client Lib](https://github.com/bloxbean/cardano-client-lib) :** A client library for Cardano in Java. This library simplifies the interaction with Cardano blockchain from a Java application.
 - **[Cardano Client Example](https://github.com/bloxbean/cardano-client-examples):** Examples - How to use Cardano-client-lib. 
