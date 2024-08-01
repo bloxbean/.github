@@ -11,3 +11,7 @@
 - **[Aiken JNA Wrapper](https://github.com/bloxbean/aiken-jna-wrapper) :** A JNA wrapper for Aiken smart contract language. The binaries from this project are used in aiken-java-binding project.
 
 - **[IntelliAda](https://github.com/bloxbean/intelliada) :** IntelliJ Plugin for Cardano Blockchain
+
+## Community
+
+Need some help getting started? [Roasted Bean Alliance Discord](https://discord.gg/JtQ54MSw6p)
