@@ -14,7 +14,7 @@
 
 ### Examples
 
-- **[Yaci DevKit GitHub Action Setup Example](https://raw.githubusercontent.com/bloxbean/devkit-npm-ci-test)** : Yaci DevKit GitHub Actions CI Test using NPM distribution
+- **[Yaci DevKit GitHub Action Setup Example](https://github.com/bloxbean/devkit-npm-ci-test)** : Yaci DevKit GitHub Actions CI Test using NPM distribution
 
 ## Community
 
