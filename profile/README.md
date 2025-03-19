@@ -12,6 +12,10 @@
 
 - **[IntelliAda](https://github.com/bloxbean/intelliada) :** IntelliJ Plugin for Cardano Blockchain
 
+### Examples
+
+- **[Yaci DevKit GitHub Action Setup Example](https://raw.githubusercontent.com/bloxbean/devkit-npm-ci-test)** : Yaci DevKit GitHub Actions CI Test using NPM distribution
+
 ## Community
 
 Need some help getting started? [Roasted Bean Alliance Discord](https://discord.gg/JtQ54MSw6p)
